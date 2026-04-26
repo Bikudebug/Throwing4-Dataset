@@ -133,9 +133,9 @@ where:
 
 ## **Dataset Access**
 
-We will provide a public link to access this dataset after publication.
+Link to access this dataset.
 
-📥 **[Download Dataset (Available after publication)](https://drive.google.com/drive/folders/1gGA55OZtFihCrIE38qJ29wWStexGfVdC?usp=drive_link)**
+📥 **[Download Dataset](https://drive.google.com/drive/folders/1gGA55OZtFihCrIE38qJ29wWStexGfVdC?usp=drive_link)**
 
 ---
 
