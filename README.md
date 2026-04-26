@@ -111,31 +111,6 @@ The pipeline contains:
 - Identity-consistent thrower tracking
 - Frame-wise 2D skeleton extraction
 
----
-
-## **Annotation Format**
-
-The **`Action annotaion/`** folder contains one JSON file for each throwing clip. Each file stores information such as:
-
-```text
-video_id, sport, phase_boundaries, official_distance_m
-```
-
-Example:
-
-```json
-{
-  "video_id": "video_0",
-  "sport": "javelin_throw",
-  "official_distance_m": 87.58,
-  "phase_boundaries": {
-    "step": [0, 42],
-    "drive": [43, 82],
-    "throw": [83, 112],
-    "recovery": [113, 145]
-  }
-}
-```
 
 ---
 
@@ -153,17 +128,6 @@ where:
 - **J = 16** = MPII body joints
 - **C** = coordinate channels, usually `(x, y)` or `(x, y, confidence)`
 
----
-
-## **Benchmark Tasks**
-
-Throwing4 can be used for:
-
-- Throw-distance prediction
-- Phase-aware pose modeling
-- Skeleton-based throwing action classification
-- Temporal phase localization
-- Pose-based sports performance analysis
 
 ---
 
@@ -171,7 +135,7 @@ Throwing4 can be used for:
 
 We will provide a public link to access this dataset after publication.
 
-📥 **[Download Dataset (Available after publication)]([https://drive.google.com/drive/folders/REPLACE_WITH_YOUR_DATASET_LINK](https://drive.google.com/drive/folders/1gGA55OZtFihCrIE38qJ29wWStexGfVdC?usp=drive_link))**
+📥 **[Download Dataset (Available after publication)](https://drive.google.com/drive/folders/1gGA55OZtFihCrIE38qJ29wWStexGfVdC?usp=drive_link)**
 
 ---
 
