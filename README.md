@@ -59,7 +59,7 @@ Throwing4 is designed for tasks such as throw-distance prediction, phase-aware p
 | Discus Throw | 112 | 69 / 43 | Swing → Turn → Throw → Recovery |
 | Hammer Throw | 90 | 30 / 60 | Swing → Turn → Throw → Recovery |
 | Shot Put | 87 | 55 / 32 | Stance → Glide → Throw → Recovery |
-| **Total** | **500** | — | — |
+| **Total** | **500** | **265/235** | — |
 
 ---
 
