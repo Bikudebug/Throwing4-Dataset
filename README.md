@@ -126,7 +126,7 @@ where:
 
 - **T** = number of frames
 - **J = 16** = MPII body joints
-- **C** = coordinate channels, usually `(x, y)` or `(x, y, confidence)`
+- **C** = coordinate channels
 
 
 ---
