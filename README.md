@@ -1,6 +1,5 @@
 # **Throwing4: Phase-Aware Pose Modeling for Throw-Distance Prediction in Elite Athletics**
 
-![Throwing4 Dataset](https://github.com/user-attachments/assets/REPLACE_WITH_YOUR_IMAGE_LINK)
 
 🏟️ **Throwing4** is a multi-modal benchmark dataset created for vision-based analysis of elite athletics throwing actions. The dataset contains **500 valid throwing clips** from four Olympic throwing events, along with RGB videos, action annotations, frame-wise 2D skeleton data, biomechanical phase labels, and official throw-distance values.
 
