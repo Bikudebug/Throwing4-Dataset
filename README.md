@@ -151,10 +151,5 @@ If you use Throwing4 in your research, please cite:
 }
 ```
 
----
 
-## **Contact**
-
-**Bikash Kumar Badatya**  
-Email: `bikash.badatya@iitgn.ac.in`
 
